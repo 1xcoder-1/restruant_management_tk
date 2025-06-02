@@ -24,12 +24,5 @@ In this project you can save the bill receipt , send the bill on your mobile pho
 
 ======================================================
 
-===============        SMS Feature   ==========================
-
-To get the sms feature on this project where you can send bill on your mobile number through sms.
-Go the offical website of           www.fast2sms.com          and signup here to get the free api.
-copy the api and paste in  api variable in a  send() function code..
-
-=====================================================
 
 --------------------------------------------------------------------------------------------------------------
